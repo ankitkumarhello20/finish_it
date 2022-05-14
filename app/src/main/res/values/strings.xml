@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">finish_it</string>
+
+    <!--    strings for slider windows-->
+    <string name="slide_no_1">Unique</string>
+    <string name="slide_no_1_desc">First ever feature of sanskrit-translate(english to sanskrit) exclusively in this app.</string>
+
+    <string name="slide_no_2">Phrases</string>
+    <string name="slide_no_2_desc">Sanskrit phrases needed for general coversations in sanskriṭ.</string>
+
+    <string name="slide_no_3">Notes</string>
+    <string name="slide_no_3_desc"> Notes for sanskrit grammatical rules.</string>
+
+    <string name="slide_no_4">Bonus</string>
+    <string name="slide_no_4_desc">Add on easy to use sanskrit dictionary with vast collection of words.</string>
+
+</resources>
+
+
+

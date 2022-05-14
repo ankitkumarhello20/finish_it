@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--     Name of the app will be Aarambh : Sanskrit for beginners(Best ever app)-->
+    <!--    Slide 1 : First ever feature of sanskrit-translate exclusively in this app.-->
+    <!--    This app will fulfill all the basic requirements you need to begin with learning sanskriṭ.-->
+
+    <!--    Slide 2 : Basic sanskrit phrases needed for general coversation in sanskriṭ.-->
+
+    <!--    Slide 3 : Notes for sanskrit grammar for referenceṣ. Add on sanskrit dictionary.-->
+
+    <!--    adding bg img to slides -->
+    <!--   adding color to the 3 welcome slides-->
+    <!--    <color name="Welcome_slider_1">DECEB4</color>-->
+    <!--    <color name="Welcome_slider_2">DECEB4</color>-->
+    <!--    <color name="Welcome_slider_3">DECEB4</color>-->
+
+    <!--    adding color to slider dot -->
+    <color name="active_dots_w">#FFFDFD</color>
+    <color name="inactive_dots_b">#C6875C</color>
+
+</resources>
